@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://zouhairnj.github.io/Convertisseur/",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,6 +13,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
